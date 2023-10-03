@@ -1,0 +1,98 @@
+.container{
+  background-image: url('../images/1.0.jpg');
+  height: 800px;;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center ;
+  color: rgb(242, 235, 235);
+  
+  
+}
+.text{
+  color: rgb(246, 234, 14);
+  padding-top: 200px;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 50px;
+}
+.txt1{
+  color: aliceblue;
+margin-top: -50px;
+}
+.txt0{
+  font-size: 60px;
+}
+.images{
+  height: 100px;
+  border-radius: 50%;
+  
+  margin-top: 150px;
+  
+}
+.txt2{
+  
+  color: rgb(198, 198, 196);
+  margin-top: 0px;
+  font-size: 20px;
+}
+.one{ display: inline-block; 
+  width: 24%;
+
+}
+.imagesdwn{
+  
+  margin-top: -10px;
+}
+.txt3{
+  margin-top: -20px;
+}
+.secondpage{
+  margin-left: 5%;
+  margin-top: 100px;
+  width: 50%;
+  
+}
+.two{
+  display:inline-block;
+  width:20%;
+  margin-top: -128px;
+}
+.txt4{
+  background-color: rgb(240, 8, 8);
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 30px;
+ 
+
+}
+.book{
+  margin-top: 20px;
+}
+.image3{
+  margin-left: 120%;
+  margin-top: -500px;
+  border-radius: 20px;
+  width: 570px;
+  margin-right: 100px;
+}
+.thirdpage{
+  
+  
+  margin-left: 5%;
+  margin-top: 100px;
+  width: 50%;
+}
+.about{
+  color: rgb(250, 92, 92);
+  font-style: italic;
+}
+.imglast{
+  height: 150px;
+  
+}
+.three{
+  display:inline-block;
+  width: 30%;
+}
+.aus{
+  margin-top: -5px;
+}
